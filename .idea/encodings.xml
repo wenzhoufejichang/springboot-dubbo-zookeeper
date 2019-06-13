@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/../springboot-dubbo-zookeeper" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springboot-dubbo-zookeeper/springboot-customer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springboot-dubbo-zookeeper/springboot-dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springboot-dubbo-zookeeper/springboot-dubbo-zookeeper01" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springboot-dubbo-zookeeper/springboot-provider8100" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springboot-dubbo-zookeeper/springbootdao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springboot-dubbo-zookeeper/springbootdomain" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springboot-dubbo-zookeeper/springbootinterface" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

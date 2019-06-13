@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../springboot-dubbo-zookeeper/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot-dubbo-zookeeper/springboot-provider8100/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot-dubbo-zookeeper/springboot-dao/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot-dubbo-zookeeper/springboot-customer/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/../springboot-dubbo-zookeeper/springbootdao/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8000000000000000000" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/../springboot-dubbo-zookeeper/out" />
+  </component>
+</project>
